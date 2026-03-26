@@ -1,4 +1,4 @@
-# Actividad-1-Mapeo-de-coordenadas
+# Actividad 1 Mapeo de coordenadas
 
 ### 1. Sistema de Referencia Inercial (El Global o "El Mundo")
 * **¿Qué es?:** Es el mapa fijo y absoluto. Imagina una cuadrícula dibujada en el piso de un cuarto que **nunca se mueve**. 
