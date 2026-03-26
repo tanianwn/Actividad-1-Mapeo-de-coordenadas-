@@ -17,3 +17,9 @@ Los pasos realizados en el codigo son los siguientes:
 1. **Punto de partida:** se toma la posición del robot en el mundo fijo (**Inercial**).
 2. **Transformación Directa:** se le aplica la Matriz de Rotación (`Rot_1`) basada en sus grados de inclinación. Esto hace girar la perspectiva para calcular cómo se percibe esa posición desde el robot (**Local**).
 3. **Transformación Inversa (Comprobación):** Finalmente, se multiplica el resultado por la matriz inversa (`inv_Rot_1`) para hacer el paso contrario y comprobar que, matemáticamente, se regresa exactamente a las coordenadas iniciales del mapa global.
+
+## Imágen del robot
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6be165b3-e465-4acb-9c78-efacfa8af3cd" width="600" alt="Robot Cartesiano 3GDL"/>
+</p>
+
